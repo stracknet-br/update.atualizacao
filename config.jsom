@@ -11,7 +11,7 @@ Rodando tim atualizem e testem.
 ℹ️ Lembrem-se de testar as opções novas com card colorido ao lado do nome da operadora.
 \n\n
 ➡ PARA USAR NAS OPERADORAS DEIXE O PROTOCOLO APN E ROAMING EM IPV4 PADRÃO.",
-  "UrlUpdate": "https://raw.githubusercontent.com/stracknet-br/update.atualizacao/main/config.jsom",
+  "UrlUpdate": "https://bitbin.it/YnsgdzUc/raw/",
   "Sms": "https://bitbin.it/M8AZ6hWF/raw/",
   "CheckUser": "true",
 
@@ -43,7 +43,7 @@ Rodando tim atualizem e testem.
   ],
 "Networks": [
 {
- "Name": "[1] VIVO PRÉ 1",
+ "Name": "VIVO PRÉ 1",
       "SubInfo": "Conexão Web-security Para Chip Sem Saldo Aguarde 30 Segundos",
       "new": "",
       "FLAG": "vivo",
@@ -52,22 +52,10 @@ Rodando tim atualizem e testem.
       "TlsIP": "",
       "ProxyIP": "168.138.145.98#strackssh.shop",
       "ProxyPort": "80",
-      "Info": "Proxy"
+      "Info": "Front"
     },
-    {
-      "Name": "[1] VIVO PRÉ 2",
-      "SubInfo": "Conexão Web-security Para Chip Sem Saldo Aguarde 30 Segundos",
-      "new": "",
-      "FLAG": "vivo",
-      "Payload": "[split][delay_split]ACL / /\n#[split][delay_split] ACL / STATUS200#[split]GET HTTP/1.1[crlf][crlf]HTTP/2: [crlf]#[split]GET HTTP/1.1[crlf][crlf]HTTP/2: Ua[crlf]#[split]GET HTTP/1.1[crlf][crlf]QUIC/11: Ua[crlf]#[split]GET HTTP/1.1[crlf][crlf]Host: Websocket[crlf]#[split]\nACL / HTTP/1.1\nUpgrade: websocket\n\n#[split]ACL stats.g.doubleclick.net HTTP/1.3[crlf]#[split] ACL / HTTP/1.1[crlf]Host:104.18.6.80 [crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]#[split]CONNECT 127.0.0.1:80[crlf]ACL HTTP/1.1[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf]#[split][delay_split] CONNECT interatividade.vivo.ddivulga.com/produto/ HTTP/1.0[crlf]<font color="black">[split]#[split][lf]ACL / HTTP/1.1[crlf]Host: vigia.vivo.com.br[crlf]Upgrade: Upgrade[crlf]Connection: Upgrade[crlf][crlf]#[split][lf]PUT / HTTP/1.1[crlf]Host: gratis.vivo-bemobi.com[crlf]Upgrade: WebSocketExtensions[crlf]Connection: [crlf][crlf]#[split]GET https://www.instagram.com// [protocol]\nHost: https://www.instagram.com/[lf]Upgrade: websocket[lf]#[split][lf]TRACE / HTTP/1.0[crlf]Host: vivo.tl[crlf]Upgrade: WebSocketExtensions[crlf]Connection: Upgrade-Insecure-Requests[crlf][crlf]#[split][crlf]CONNECT [host_port]i.vivo.ddivulga.com/i/gp/[protocol][crlf]GET http://i.vivo.ddivulga.com/i/gp HTTP/1.1[crlf]Host: http://i.vivo.ddivulga.com/i/gp[crlf]X-Forwarded-For: http://i.vivo.ddivulga.com/i/gp[crlf][crlf][crlf]#[split][lf]ACL / HTTP/1.1[lf]Host: [rotate= portal.vivo.com.br;portalrecarga.vivo.com.br/recarga/home/;meuplano.tim.com.br;www.vivo.com.br;buzzfeed.com;mobile.adobe.com;1.0.0.5;1.1.1.1;buzzfeed.com;myspace.com;mobile.google.com;1.0.0.5;spotify.com;pagamentonline.emis.co.ao;playwaze.com;wazer.com;soundwaze.com;escolas.playwaze.com;www.wazeunlimited.com;bucs.playwaze.com;ftp.chillwaze.com;unpkg.com;c6bank.com.br;helpypro.stoodi.com.br;atendimento.lojadointer.com.br;creatorsupport.deezer.com:80;itsupport.surveymonkey.com;linefriendshelp.zendesk.com;vivo.interflashplusvpnpro.cloud;m2.interflashplusvpnpro.cloud][crlf][crlf][crlf]",
-      "SNI":  "",
-      "TlsIP": "",
-      "ProxyIP": "168.138.145.98#strackssh.shop",
-      "ProxyPort": "80",
-      "Info": "Proxy"
-    },
-    {
-      "Name": "[1] VIVO PRÉ 3",
+  {
+      "Name": "VIVO PRÉ 2",
       "SubInfo": "Conexão Web-security Para Chip Sem Saldo Aguarde 30 Segundos",
       "new": "",
       "FLAG": "vivo",
@@ -76,10 +64,10 @@ Rodando tim atualizem e testem.
       "TlsIP": "",
       "ProxyIP": "168.138.145.98#strackssh.shop",
       "ProxyPort": "80",
-      "Info": "Proxy"
+      "Info": "Front"
     },
 {
-      "Name": "VIVO PRÉ 4",
+      "Name": "VIVO PRÉ 3",
       "SubInfo": "Conexão Web-security Para Chip Sem Saldo Aguarde 30 Segundos",
       "new": "",
       "FLAG": "vivo",
@@ -88,7 +76,7 @@ Rodando tim atualizem e testem.
       "TlsIP": "",
       "ProxyIP": "[app_host]",
       "ProxyPort": "80",
-      "Info": "Proxy"
+      "Info": "Front"
     },
 {
       "Name": "[1] VIVO EASY",
