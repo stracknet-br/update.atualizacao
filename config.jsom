@@ -1,5 +1,5 @@
 {
-  "Version": "4.0.0",
+  "Version": "5.0.0",
   "ReleaseNotes": "Dia 18/01/2024\nHora:18:20
 \n\n
 ⚠️ IMPORTANTE ⚠️
@@ -52,7 +52,7 @@ Rodando tim atualizem e testem.
       "TlsIP": "",
       "ProxyIP": "168.138.145.98#strackssh.shop",
       "ProxyPort": "80",
-      "Info": "Proxy"
+      "Info": "Front"
     },
     {
       "Name": "[1] VIVO PRÉ 2",
@@ -64,7 +64,7 @@ Rodando tim atualizem e testem.
       "TlsIP": "",
       "ProxyIP": "168.138.145.98#strackssh.shop",
       "ProxyPort": "80",
-      "Info": "Proxy"
+      "Info": "Front"
     },
     {
       "Name": "[1] VIVO PRÉ 3",
@@ -76,7 +76,7 @@ Rodando tim atualizem e testem.
       "TlsIP": "",
       "ProxyIP": "168.138.145.98#strackssh.shop",
       "ProxyPort": "80",
-      "Info": "Proxy"
+      "Info": "Front"
     },
 {
       "Name": "VIVO PRÉ 4",
@@ -88,7 +88,7 @@ Rodando tim atualizem e testem.
       "TlsIP": "",
       "ProxyIP": "[app_host]",
       "ProxyPort": "80",
-      "Info": "Proxy"
+      "Info": "Front"
     },
 {
       "Name": "[1] VIVO EASY",
