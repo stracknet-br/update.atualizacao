@@ -1,5 +1,5 @@
 {
-  "Version": "25.0.0",
+  "Version": "8.0.0",
   "ReleaseNotes": "Dia 18/01/2024\nHora:18:20
 \n\n
 ⚠️ IMPORTANTE ⚠️
@@ -11,7 +11,7 @@ Rodando tim atualizem e testem.
 ℹ️ Lembrem-se de testar as opções novas com card colorido ao lado do nome da operadora.
 \n\n
 ➡ PARA USAR NAS OPERADORAS DEIXE O PROTOCOLO APN E ROAMING EM IPV4 PADRÃO.",
-  "UrlUpdate": "https://bitbin.it/YnsgdzUc/raw/",
+  "UrlUpdate": "https://raw.githubusercontent.com/stracknet-br/update.atualizacao/main/config.jsom",
   "Sms": "https://bitbin.it/M8AZ6hWF/raw/",
   "CheckUser": "true",
 
